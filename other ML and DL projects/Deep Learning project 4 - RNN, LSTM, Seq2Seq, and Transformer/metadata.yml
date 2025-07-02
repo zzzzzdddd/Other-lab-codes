@@ -1,0 +1,12 @@
+---
+:id: 148861924
+:submitters:
+- :name: Zheng Ding
+  :email: zding74@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-15 04:20:10.480198000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-14 20:20:10.480198000 Z
+:status: processed
+:score: 70.0
